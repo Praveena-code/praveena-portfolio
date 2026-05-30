@@ -11,7 +11,7 @@
 
 ## 🌐 Live Demo
 
-**[praveena-portfolio.vercel.app](https://praveena-portfolio.vercel.app)**
+**[praveena-portfolio.vercel.app](https://praveena-portfolio-nine.vercel.app/)**
 
 ---
 
